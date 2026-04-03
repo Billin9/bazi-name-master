@@ -92,6 +92,19 @@ uv run /Users/Bai/.agents/skills/bazi-name-master/scripts/calculate_bazi.py \
 - 名字推荐必须先过补益与避讳筛选，再比较出处、音律与现代审美。
 - 候选名字评估必须基于已核验的八字结果，不允许跳过前置计算。
 
+## 许可与署名
+
+本项目采用 `Apache-2.0` 许可协议，详见仓库根目录中的 `LICENSE` 与 `NOTICE` 文件。
+
+如果你要传播、分发或基于本项目进行二次开发，请至少保留以下信息：
+
+- 原始版权声明
+- `LICENSE` 文件
+- `NOTICE` 文件
+- 原始仓库链接：`https://github.com/Billin9/bazi-name-master`
+
+这能确保下游用户仍然能够识别项目来源，并继续获得完整的许可与署名信息。
+
 ## 维护建议
 
 - 如果项目目录名变更，务必同步检查 `SKILL.md`、`evals/evals.json` 与文内绝对路径。
